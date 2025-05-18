@@ -9,7 +9,7 @@ Test repo for System Education
 [Основы программирования на Python](./pythonBase/)
 - [практические задания во время лекции](./pythonBase/theory_work.ipynb)
 - [ДЗ 1](./pythonBase/leapYear.py) - определить високосный ли год, введенный пользователем
-- [ДЗ 2](./pythonBase/RadarChart.ipynb) - обработка csv файла и использование plotly для отображения результатов
+- [ДЗ 2](./pythonBase/RadarChart.ipynb) - обработка csv файла и использование plotly для отображения результатов обработки ([результат](./pythonBase/radarChart.png))
 
 ### 18.05.2025
 - [Практика по визуализации данных с помощью plotly](./dataVis/tasks.ipynb)
