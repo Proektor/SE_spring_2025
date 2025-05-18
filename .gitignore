@@ -4,6 +4,7 @@
 TG_bot/__pycache__/
 TG_bot/tg_bot.ipynb
 TG_bot/config.py
+TG_bot/testRequests/__pycache__/
 
 dataVis/plotly_theory.ipynb
 
