@@ -1,4 +1,10 @@
 
 *.csv
 
-LearnMaterials.ipynb
+TG_bot/__pycache__/
+TG_bot/tg_bot.ipynb
+TG_bot/config.py
+
+dataVis/plotly_theory.ipynb
+
+pythonBase/LearnMaterials.ipynb
