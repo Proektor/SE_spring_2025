@@ -24,3 +24,6 @@ Test repo for System Education
         - [получить информацию о чате](./TG_bot/testRequests/get_chat_info.py)
         - [удалить сообщение](./TG_bot/testRequests/delete_msg.py)
         - [отправить опрос](./TG_bot/testRequests/send_pull.py)
+    - Запросы в виде [коллекции Postman][def]
+
+[def]: https://.postman.co/workspace/My-Workspace~1f6837db-6158-4bf1-8c67-9d14a5aa4a80/collection/27545975-2aafa569-da1b-4c35-8843-faeb024004e1?action=share&creator=27545975&active-environment=27545975-5c4ad65b-0756-4d88-b089-50d63e91ae96
