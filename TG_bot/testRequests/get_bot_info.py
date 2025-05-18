@@ -9,8 +9,4 @@ def get_bot_info(token):
 
 
 # Пример использования
-<<<<<<< HEAD
-=======
-token = ""
->>>>>>> 88c1b837883e02ac5b23c9ca7e0f08daaf3dac37
 print(get_bot_info(token))

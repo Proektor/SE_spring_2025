@@ -13,5 +13,5 @@ def delete_message(token, chat_id, message_id):
 
 
 # Пример использования
-message_id = "3"
+message_id = "12"
 print(delete_message(token, chat_id, message_id))
