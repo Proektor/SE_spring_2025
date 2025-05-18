@@ -1,5 +1,5 @@
-
 *.csv
+.vscode/
 
 TG_bot/__pycache__/
 TG_bot/tg_bot.ipynb
