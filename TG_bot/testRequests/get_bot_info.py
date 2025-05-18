@@ -1,4 +1,5 @@
 import requests
+from config import token
 
 
 def get_bot_info(token):
@@ -8,5 +9,4 @@ def get_bot_info(token):
 
 
 # Пример использования
-token = "7709538685:AAH3nikbdFya1SUGi16SkWoocf7aFLsnIj8"
 print(get_bot_info(token))
