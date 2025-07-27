@@ -1,5 +1,5 @@
 # SE_spring_2025
-Test repo for System Education
+Repo for learning in System Education
 
 Содержит материалы уроков по основам программирования в рамках Systems Analyst Bootcamp (spr`25).
 
